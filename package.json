@@ -17,7 +17,8 @@
 		"gl-vec3": "^1.1.3",
 		"pointer-lock": "^0.0.4",
 		"regl": "^1.7.0",
-		"stats.js": "^0.17.0"
+		"stats.js": "^0.17.0",
+		"virtual_art_gallery": "file:"
 	},
 	"devDependencies": {
 		"@babel/core": "^7.15.0",
